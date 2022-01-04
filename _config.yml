@@ -1,3 +1,13 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+- jekyll-seo-tag
+
+title: Awesome Algorand
+tagline: "Curated resources from Algorand Blockchain ecosystem"
+description: "⚡ An awesome list about everything related to the Algorand Blockchain ⛓"
+google_analytics: G-HS5HNLQJRH
+image: https://raw.githubusercontent.com/aorumbayev/Awesome-Algorand/main/markdown/logo.png
+
+twitter:
+  username: millionalgos
