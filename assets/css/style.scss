@@ -1,0 +1,43 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background: #0d1118;
+    background: linear-gradient(#0d1118, #0d1118);
+}
+
+a {
+    color: #ff679f;
+    font-weight: 400;
+    text-decoration: none;
+
+    &:hover {
+        color: #e23072;
+    }
+}
+
+#header {
+    nav {
+        ul {
+            li {
+                a {
+                    color: white;
+                    border: 1px solid #c02961;
+                    background: linear-gradient(#ff3983, #ec1b68);
+
+                    background-color: #ff3983;
+
+                    &:hover {
+                        background: linear-gradient(#af2658, #a71148);
+                        background-color: #659e10;
+                        border: 1px solid #527f0e;
+                        box-shadow: inset 0px 1px 1px rgba(122, 77, 77, 0.2),
+                            0px 1px 0px rgba(0, 0, 0, 0);
+                    }
+                }
+            }
+        }
+    }
+}
