@@ -4,8 +4,8 @@ plugins:
 - jekyll-seo-tag
 
 title: Awesome Algorand
-tagline: "Curated resources from Algorand Blockchain ecosystem"
-description: "⚡ An awesome list about everything related to the Algorand Blockchain ⛓"
+tagline: Curated resources from Algorand Blockchain ecosystem
+description: ⚡ An awesome list about everything related to the Algorand Blockchain ⛓
 google_analytics: G-HS5HNLQJRH
 image: https://raw.githubusercontent.com/aorumbayev/Awesome-Algorand/main/markdown/logo.png
 
