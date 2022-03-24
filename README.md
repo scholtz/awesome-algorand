@@ -49,6 +49,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Pera Wallet](https://github.com/perawallet) - Secure, open source and community driven wallet for mobile devices. Maintained by the team behind official Algorand Wallet.
 - [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - Web Wallet and JS library for signing transactions in the browser.
 - [AlgoSigner](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
+- [AWallet](https://www.a-wallet.net/) - First open source algorand PWA wallet (desktop, browser). The only wallet which allows rekeying of multisig accounts.
 - [Method Wallet](https://methodwallet.app/) - Algorand Wallet you'll love.
 
 ## Blockchain Explorers
